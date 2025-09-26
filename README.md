@@ -15,7 +15,7 @@ Breast Cancer Predictor is a machine learning application that classifies breast
 The model is trained on the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data).
 
 ## App preview
-You can also check out the live app on 
+You can also check out the live app on [TheAlgoVision](https://thealgovision.streamlit.app/)
 
 
 ## Tech Stack
