@@ -11,7 +11,11 @@ Breast Cancer Predictor is a machine learning application that classifies breast
 - Visualizations for data insights and model evaluation  
 
 ---
+## Dataset
+The model is trained on the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data).
 
+## App preview
+You can also check out the live app on 
 
 
 ## Tech Stack
@@ -36,3 +40,7 @@ Run the application locally
 streamlit run app/main.py
 ```
 After running, open the local URL provided by Streamlit in your browser, use slidebar for adjustments, and view predictions instantly
+
+# Disclaimer
+This project is for educational and research purposes only.
+It is not intended for clinical use or medical diagnosis.
