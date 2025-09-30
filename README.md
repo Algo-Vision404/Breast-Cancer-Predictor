@@ -14,15 +14,23 @@
 - Data preprocessing, feature scaling, and model training pipeline
 - Visualizations for data insights and model evaluation
 
+---
 ## Dataset
 Trained on the **[Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)**
 
+---
 ## Live App
 Check it out on [TheAlgoVision](https://thealgovision.streamlit.app/)
 
+---
+## Sample View
+<img width="928" height="325" alt="image" src="https://github.com/user-attachments/assets/54093414-2797-4512-b53c-73dff62a1d29" />
+
+---
 ## Tech Stack
 **Python (Pandas, NumPy, Scikit-learn), Streamlit, Plotly, Git & GitHub**
 
+---
 ## Installation & Usage
 ```bash
 git clone https://github.com/your-username/Breast-Cancer-Predictor.git
@@ -32,5 +40,6 @@ streamlit run app/main.py
 ```
 Open the URL provided by Streamlit in your browser, use the sliders to input measurements, and view predictions instantly.
 
+---
 # Disclaimer
 This project is for educational and research purposes only and is not intended for clinical use or medical diagnosis.
